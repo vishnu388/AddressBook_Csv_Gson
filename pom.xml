@@ -8,12 +8,7 @@
     <artifactId>AddressBook_Csv_Gson</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
-        <dependency>
-            <groupId>org.example</groupId>
-            <artifactId>AddressBook_Csv_Gson</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+                <!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
         <dependency>
             <groupId>com.opencsv</groupId>
             <artifactId>opencsv</artifactId>
@@ -24,6 +19,11 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.6</version>
         </dependency>
     </dependencies>
 

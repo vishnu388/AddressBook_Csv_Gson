@@ -1,4 +1,4 @@
-Contact [firstName=Vishnu, lastName=Vardhan, Address=Ongole, city=Ongole, state=Andhrapradesh, pincode=523001, MobileNo=8106261925]
+Contact [firstName=Vishnu, lastName=Vardhan, Address=Ongole, city=Ongole, state=AndhraPradesh, pincode=523001, MobileNo=8106261925]
 
-Contact [firstName=Kiran, lastName=Kumar, Address=Ongole, city=Ongole, state=Andhrapradesh, pincode=523301, MobileNo=9989988301]
+Contact [firstName=Kiran, lastName=Kumar, Address=Ongole, city=Ongole, state=Andhrapradesh, pincode=523001, MobileNo=9989988301]
 
