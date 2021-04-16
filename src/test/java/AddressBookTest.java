@@ -40,8 +40,8 @@ public class AddressBookTest {
     public void givenCSVFile_WhenWrite_ShouldReturnTrue() throws IOException {
         String ADDRESS_BOOK_CSV_FILE_PATH = ".src/test/resources/AddressBook.csv";
         ArrayList<String[]> contacts = new ArrayList<>();
-        String[] contact1 = {"Sai", "Tarun", "pelluru", "Ongole", "AndhraPradesh", String.valueOf(523001), String.valueOf(7387555893L), "saitarun800@gmail.com"};
-        String[] contact2 ={"Sravani","Lakshmi","ongole","ongole","Andhrapradesh", String.valueOf(523001), String.valueOf(8080808022L),"sravs@gm.in"};
+        String[] contact1 = {"Vishnu", "Vardhan", "Ongole", "Ongole", "AndhraPradesh", String.valueOf(523001), String.valueOf(8106261925L), "Vishnu388@gmail.com"};
+        String[] contact2 ={"Kiran","Kumar","Ongole","Ongole","Andhrapradesh", String.valueOf(523001), String.valueOf(9989988301L),"KiranKumar@gmail.com"};
 
         contacts.add(contact1);
         contacts.add(contact2);
